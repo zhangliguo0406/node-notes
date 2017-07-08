@@ -4,7 +4,7 @@
 //服务端有global global上的对象都可以直接访问 ->全局对象
 //console.log(global);
 //process 进程
-//Buffer 缓存区  （表示内存）
+//7.Buffer 缓存区  （表示内存）
 //clearImmediate  setImmediate
 //clearInterval setInterval
 //clearTimeout setTimeout
